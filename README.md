@@ -18,3 +18,5 @@ This project uses openCSV library for parsing CSV files.
 ## Developers
 Developed by: [@Gaspar Sekula](https://github.com/GasparSekula) and [@Michał Piechota](https://github.com/piechotam)
 
+!(screenshots/ss1.png)
+!(screenshots/ss2.png)
